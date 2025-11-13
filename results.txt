@@ -20,22 +20,17 @@
 173.245.49.196#美国 🇺🇸 336ms
 jerry.cf.090227.xyz#CM优选，速度很快
 mfa.gov.ua#乌克兰政府官网，速度很快
- www.shopify.com#Shopify官方优选，速度很快 
- www.visa.cn#visa中国优选，速度一般 
+www.shopify.com#Shopify官方优选，速度很快 
+www.visa.cn#visa中国优选，速度一般 
 time.is#官方优选，速度较差
-icook.hk#官方优选，速度一般
-icook.tw#官方优选，速度一般
 cf.877774.xyz#秋名山维护，速度很快
-cfip.xxxxxxxx.tk#OTC维护，速度一般
 bestcf.030101.xyz#MingYu维护，速度很快
 777.ai7777777.xyz#速度很快
 cdn.2020111.xyz#速度较快
-cfip.cfcdn.vip#速度非常差
 cf.0sm.com#速度很快
 cfip.1323123.xyz#速度很快
 cloudflare-ip.mofashi.ltd##速度较差
 cf.877771.xyz#速度很快
-cf.900501.xyz#没有速度，不能使用
 cdns.doon.eu.org#速度很快
 fn.130519.xyz#速度较慢
 nrt.xxxxxxxx.nyc.mn#速度较快
@@ -49,8 +44,6 @@ cf.zhetengsha.eu.org#小一维护，速度很快,
 cloudflare-dl.byoip.top#NB 优选服务，速度很快
 www.gov.se#官方优选，速度较快
 http://cf-st.annoy.eu.org#官方优选，速度较快
-achk.cloudflarest.link#KJKKK 维护，速度较快
-acjp2.cloudflarest.link#KJKKK 维护，速度较快
 yx.887141.xyz#
 cloudflare.czkcdn.cn
 www.csgo.com
@@ -58,12 +51,8 @@ cloudflare.cnae.top
 cloudflare.cdnjson.com
 www.wto.org#世贸官方，速度很快
 www.whatismyip.com#官方优选，速度较快
-www.who.int
 iplocation.io
-www.pcmag.com
 whatismyipaddress.com
-www.sean-now.com
-fbi.gov
-www.d-555.com
-gur.gov.ua
-www.zsu.gov.ua
+fbi.gov#FBI官方优选
+gur.gov.ua#乌克兰官方优选
+www.zsu.gov.ua#乌克兰优选
