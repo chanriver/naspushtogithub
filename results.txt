@@ -18,6 +18,15 @@
 198.41.206.229#美国 🇺🇸 333ms
 104.19.159.173#美国 🇺🇸 334ms
 173.245.49.196#美国 🇺🇸 336ms
+jerry.cf.090227.xyz#CM优选，速度很快
+mfa.gov.ua#乌克兰政府官网，速度很快
+ www.shopify.com#Shopify官方优选，速度很快 
+ www.visa.cn#visa中国优选，速度一般 
+time.is#官方优选，速度较差
+icook.hk#官方优选，速度一般
+icook.tw#官方优选，速度一般
+cf.877774.xyz#秋名山维护，速度很快
+cfip.xxxxxxxx.tk#OTC维护，速度一般
 bestcf.030101.xyz#MingYu维护，速度很快
 777.ai7777777.xyz#速度很快
 cdn.2020111.xyz#速度较快
